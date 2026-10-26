@@ -834,3 +834,14 @@ letter-spacing: 1px;
  font: 3px;
 
 }
+
+@media (max-width: 640px) {
+  .next {
+    flex-direction: column;
+  }
+}
+@media (max-width: 640px) {
+  .foot {
+    flex-direction: column;
+  }
+}
